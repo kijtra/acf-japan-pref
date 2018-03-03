@@ -1,0 +1,47 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Custom Fields: Japan Prefecture\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 15:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: fields/acf-field-japan-pref-v5.php:40
+msgid "Prefecture"
+msgstr ""
+
+#: fields/acf-field-japan-pref-v5.php:150
+msgid "Prefecture Code and Name (as array)"
+msgstr ""
+
+#: fields/acf-field-japan-pref-v5.php:151
+msgid "Prefecture Code"
+msgstr ""
+
+#: fields/acf-field-japan-pref-v5.php:152
+msgid "Prefecture Name"
+msgstr ""
+
+#: fields/acf-japan-pref-helpers.php:18 fields/acf-japan-pref-helpers.php:68
+msgid "Select a prefecture"
+msgstr ""
+
+#. Name of the plugin
+msgid "Advanced Custom Fields: Japan Prefecture"
+msgstr ""
+
+#. Description of the plugin
+msgid "Japan Prefecture"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kijtra"
+msgstr ""
